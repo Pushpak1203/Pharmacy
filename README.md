@@ -144,7 +144,7 @@ Ensure the following tools are installed on your development machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ReverseEngineeringDude/PharmAssist.git
+   git clone https://github.com/Pushpak1203/Pharmacy
    cd PharmAssist
    ```
 
@@ -219,11 +219,11 @@ PharmAssist is open-source software licensed under the MIT License. Contribution
 
 For questions, support, or community discussions, reach out through our official handles:
 
-- **Developer**: Praveen MT (Red)
-- **Email Contact**: praveenmtdarker@gmail.com
-- **Telegram Channel**: https://t.me/pharmassistsoftware
-- **GitHub Repository**: https://github.com/ReverseEngineeringDude/PharmAssist
-- **Issue Tracker**: https://github.com/ReverseEngineeringDude/PharmAssist/issues
+- **Developer**: Pushpak Chakraborty
+- **Email Contact**: pushpakchakraborty219@gmail.com
+- **Telegram Channel**: https://t.me/pharmacy_dashboard
+- **GitHub Repository**: https://github.com/Pushpak1203/Pharmacy
+- **Issue Tracker**: https://github.com/Pushpak1203/Pharmacy/issues
 
 ---
 
