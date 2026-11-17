@@ -1,0 +1,60 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# Sensitive Credentials & Private Database Files
+firebase.json
+*firebase*.json
+google-services.json
+GoogleService-Info.plist
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+
+# IDE / Editor Configurations
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Flutter / Dart / Pub dependencies & builds
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+.packages
+/build/
+/coverage/
+
+# Flutter Desktop Ephemeral & Platform Artifacts
+/linux/flutter/ephemeral/
+/windows/flutter/ephemeral/
+/macos/Flutter/ephemeral/
+/ios/Pods/
+/ios/Runner.xcworkspace/
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio & Gradle build artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/.gradle
